@@ -1,3 +1,4 @@
+参考教程:https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website
 # django_local_library
 
 ## 一个用django搭建的图书管理系统
@@ -16,3 +17,4 @@
 ### 做了关于django的各种单元测试
 
 ### 做了heroku与github对接进行网站的部署
+
